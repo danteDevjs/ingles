@@ -5,7 +5,7 @@
 |------------|------------|--------------|
 | I | Am | Yo soy/estoy |
 | you | Are | tu eres/estas |
-| He, she , it | el, ella, eso es/está |
+| He, she , it | Is |el, ella, eso es/está |
 | We | Are | nosotos somos/estamos |
 | they | Are | Ellos son/estan |
 
