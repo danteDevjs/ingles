@@ -46,19 +46,8 @@ graph TD
 # partes de una frase
 
 ## adjetivos
-### Lista de Adjetivos Calificativos
+Lista de Adjetivos Calificativos
 
-# Diccionario de Adjetivos en Inglés
-
-#### 1. Adjetivos Calificativos (Qualitative)
-| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
-| :--- | :--- | :--- | :--- |
-| **Reliable** | Confiable | Profesional | Para alguien que cumple siempre. |
-| **Sharp** | Afilado/Astuto | Intelecto | Para una mente rápida o cuchillos. |
-| **Stunning** | Impresionante | Estética | Belleza que destaca mucho. |
-| **Cluttered** | Desordenado | Espacios | Para una oficina con muchas cosas. |
-| **Hectic** | Agitado | Tiempo | Para un día con mucho trabajo. |
-| **Blunt** | Directo | Comunicación | Alguien que dice la verdad sin filtros. |
 
 #### 2. Adjetivos Posesivos (Possessive)
 | Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
@@ -90,42 +79,16 @@ graph TD
 | **Several** | Varios / Varias | General | Más de dos, pero no muchos. |
 | **Each** | Cada | Individual | Para referirse a cada unidad por separado. |
 
-#### 1. Personalidad y Carácter
-| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
-| :--- | :--- | :--- | :--- |
-| **Trustworthy** | Digno de confianza | Profesional/Personal | Alguien que cumple su palabra. |
-| **Stubborn** | Terco/Testarudo | Comportamiento | Alguien que no cambia de opinión. |
-| **Humble** | Humilde | Carácter | Quien no presume sus logros. |
-| **Witty** | Ingenioso | Conversación | Alguien rápido y divertido al hablar. |
-| **Clumsy** | Torpe | Físico | Quien suele caerse o romper cosas. |
-| **Selfish** | Egoísta | Actitud | Quien solo piensa en sí mismo. |
-| **Bold** | Audaz | Decisiones | Para acciones valientes o arriesgadas. |
-| **Polite** | Educado | Social | Persona con buenos modales. |
-| **Lazy** | Perezoso | Trabajo | Quien evita el esfuerzo. |
-| **Reliable** | Confiable | General | Algo o alguien que no falla. |
 
-#### 2. Apariencia y Estado Físico
+#### 1. Adjetivos Calificativos (Qualitative)
 | Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
 | :--- | :--- | :--- | :--- |
-| **Stunning** | Impresionante | Estética | Belleza que deja sin palabras. |
-| **Shabby** | Desgastado | Objetos | Algo viejo o en mal estado. |
-| **Slender** | Esbelto | Físico | Delgado de forma elegante. |
-| **Filthy** | Muy sucio | Limpieza | Algo extremadamente mugriento. |
-| **Gleaming** | Reluciente | Limpieza | Algo que brilla de limpio. |
-| **Sturdy** | Robusto/Firme | Estructuras | Muebles o edificios resistentes. |
-| **Crooked** | Torcido | Forma | Algo que no está alineado o recto. |
-| **Broad** | Ancho | Espacio | Superficies o espaldas amplias. |
-
-#### 3. Calidad y Opinión
-| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
-| :--- | :--- | :--- | :--- |
-| **Flawless** | Impecable | Calidad | Algo que no tiene ni un solo error. |
-| **Dreadful** | Espantoso | Valoración | Para una experiencia o clima muy malo. |
-| **Superb** | Magnífico | Valoración | Un nivel superior a "bueno". |
-| **Vague** | Impreciso | Información | Algo que no está claro o es confuso. |
-| **Harsh** | Severo/Cruel | Crítica/Clima | Palabras duras o frío extremo. |
-| **Seamless** | Fluido/Sin cortes | Procesos | Algo que funciona perfectamente unido. |
-| **Straightforward**| Directo/Sencillo | Explicaciones | Algo fácil de entender. |
+| **Reliable** | Confiable | Profesional | Para alguien que cumple siempre. |
+| **Sharp** | Afilado/Astuto | Intelecto | Para una mente rápida o cuchillos. |
+| **Stunning** | Impresionante | Estética | Belleza que destaca mucho. |
+| **Cluttered** | Desordenado | Espacios | Para una oficina con muchas cosas. |
+| **Hectic** | Agitado | Tiempo | Para un día con mucho trabajo. |
+| **Blunt** | Directo | Comunicación | Alguien que dice la verdad sin filtros. |
 
 #### 4. Tiempo, Tamaño y Cantidad
 | Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
@@ -138,15 +101,6 @@ graph TD
 | **Endless** | Infinito | Duración | Algo que parece no terminar nunca. |
 | **Sudden** | Repentino | Eventos | Algo que ocurre sin previo aviso. |
 
-#### 5. Sentimientos y Estados Mentales
-| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
-| :--- | :--- | :--- | :--- |
-| **Overwhelmed** | Abrumado | Emocional | Tener demasiadas cosas que manejar. |
-| **Thrilled** | Emocionado | Positivo | Estar muy feliz por algo. |
-| **Bewildered** | Desconcertado | Confusión | Estar totalmente perdido o confundido. |
-| **Eager** | Ansioso/Deseoso | Expectativa | Tener muchas ganas de empezar algo. |
-| **Ashamed** | Avergonzado | Social | Sentirse mal por una acción propia. |
-| **Restless** | Inquieto | Energía | No poder quedarse quieto o tranquilo. |
 
 
 ## preposiciones 
@@ -243,7 +197,12 @@ graph TD
 | do ⚙️ | hacer | actividad general | I do homework | Hago tareas |
 | live 🏠 | vivir | lugar de vida | They live in Santiago | Viven en Santiago |
 | have 📦 | tener | posesión | I have a car | Tengo un auto |
-modales
+
+## verbos modales
+### verbos especiales que cambian la gramatica 
+#### no usan to para conectar dos verbos
+#### cambian su gramatica con los pronombres it,she,he
+
 | Tipo | Verbo | Significado | Regla | Ejemplo (EN) | Español |
 |------|------|------------|------|-------------|--------|
 | Modal | can 💪 | poder | base + verbo | I can swim | Puedo nadar |
