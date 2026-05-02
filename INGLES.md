@@ -5,13 +5,153 @@
 |------------|------------|--------------|
 | I | Am | Yo soy/estoy |
 | you | Are | tu eres/estas |
-| He, she , it | el, ella, eso es/está |
+| He, she , it | Is |el, ella, eso es/está |
 | We | Are | nosotos somos/estamos |
 | they | Are | Ellos son/estan |
 
+## tiempos verbales a dominar
+```mermaid
+graph TD
+    Start((INICIO)) --> B[Present Simple]
+    B --> B1{¿Lo dominas?}
+    B1 -- No --> B
+    B1 -- Sí --> C[Past Simple]
+    
+    C --> C1{¿Verbos irregulares?}
+    C1 -- No --> C
+    C1 -- Sí --> D[Future Simple -Will/Going to-]
+    
+    D --> E[Present Continuous]
+    E --> F{BLOQUE BÁSICO COMPLETO}
+    
+    F --> G[Present Perfect]
+    G --> H[Past Continuous]
+    H --> I[Modals -Can, Should, Must-]
+    
+    I --> J{NIVEL INTERMEDIO}
+    
+    J --> K[Past Perfect]
+    K --> L[Conditional Sentences]
+    L --> M[Passive Voice]
+    M --> End((DOMINIO TÉCNICO))
 
- 
-### preposiciones de lugar
+    style F fill:#f96,stroke:#333,stroke-width:2px
+    style J fill:#f96,stroke:#333,stroke-width:2px
+    style Start fill:#dfd
+    style End fill:#ddf
+```
+
+
+
+# partes de una frase
+
+## adjetivos
+### Lista de Adjetivos Calificativos
+
+# Diccionario de Adjetivos en Inglés
+
+#### 1. Adjetivos Calificativos (Qualitative)
+| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
+| :--- | :--- | :--- | :--- |
+| **Reliable** | Confiable | Profesional | Para alguien que cumple siempre. |
+| **Sharp** | Afilado/Astuto | Intelecto | Para una mente rápida o cuchillos. |
+| **Stunning** | Impresionante | Estética | Belleza que destaca mucho. |
+| **Cluttered** | Desordenado | Espacios | Para una oficina con muchas cosas. |
+| **Hectic** | Agitado | Tiempo | Para un día con mucho trabajo. |
+| **Blunt** | Directo | Comunicación | Alguien que dice la verdad sin filtros. |
+
+#### 2. Adjetivos Posesivos (Possessive)
+| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
+| :--- | :--- | :--- | :--- |
+| **My** | Mi / Mis | Pertenencia | "My code" (Mi código). |
+| **Your** | Tu / Tus / Su | Pertenencia | "Your office" (Tu oficina). |
+| **His** | Su / Sus (de él) | Pertenencia | "His computer" (Su computador). |
+| **Her** | Su / Sus (de ella) | Pertenencia | "Her project" (Su proyecto). |
+| **Its** | Su / Sus (animal/cosa) | Pertenencia | "Its performance" (Su rendimiento). |
+| **Our** | Nuestro/a | Pertenencia | "Our team" (Nuestro equipo). |
+| **Their** | Su / Sus (de ellos) | Pertenencia | "Their server" (Su servidor). |
+
+#### 3. Adjetivos Demostrativos (Demonstrative)
+| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
+| :--- | :--- | :--- | :--- |
+| **This** | Este / Esta | Cercanía (Singular) | Para algo que tienes a mano. |
+| **That** | Ese / Aquel / Esa | Distancia (Singular) | Para algo que está lejos de ti. |
+| **These** | Estos / Estas | Cercanía (Plural) | Para varios objetos cerca. |
+| **Those** | Esos / Aquellos | Distancia (Plural) | Para varios objetos lejos. |
+
+#### 4. Adjetivos Indefinidos (Indefinite)
+| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
+| :--- | :--- | :--- | :--- |
+| **Some** | Algún / Algunos | Afirmativo | Para una cantidad no definida. |
+| **Any** | Cualquier / Ningún | Negativo/Pregunta | "Any error?" (¿Algún error?). |
+| **Many** | Muchos / Muchas | Contable | Para gran cantidad de objetos. |
+| **Much** | Mucho / Mucha | Incontable | Para conceptos (tiempo, dinero). |
+| **Few** | Pocos / Pocas | Contable | Para una cantidad pequeña. |
+| **Several** | Varios / Varias | General | Más de dos, pero no muchos. |
+| **Each** | Cada | Individual | Para referirse a cada unidad por separado. |
+
+#### 1. Personalidad y Carácter
+| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
+| :--- | :--- | :--- | :--- |
+| **Trustworthy** | Digno de confianza | Profesional/Personal | Alguien que cumple su palabra. |
+| **Stubborn** | Terco/Testarudo | Comportamiento | Alguien que no cambia de opinión. |
+| **Humble** | Humilde | Carácter | Quien no presume sus logros. |
+| **Witty** | Ingenioso | Conversación | Alguien rápido y divertido al hablar. |
+| **Clumsy** | Torpe | Físico | Quien suele caerse o romper cosas. |
+| **Selfish** | Egoísta | Actitud | Quien solo piensa en sí mismo. |
+| **Bold** | Audaz | Decisiones | Para acciones valientes o arriesgadas. |
+| **Polite** | Educado | Social | Persona con buenos modales. |
+| **Lazy** | Perezoso | Trabajo | Quien evita el esfuerzo. |
+| **Reliable** | Confiable | General | Algo o alguien que no falla. |
+
+#### 2. Apariencia y Estado Físico
+| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
+| :--- | :--- | :--- | :--- |
+| **Stunning** | Impresionante | Estética | Belleza que deja sin palabras. |
+| **Shabby** | Desgastado | Objetos | Algo viejo o en mal estado. |
+| **Slender** | Esbelto | Físico | Delgado de forma elegante. |
+| **Filthy** | Muy sucio | Limpieza | Algo extremadamente mugriento. |
+| **Gleaming** | Reluciente | Limpieza | Algo que brilla de limpio. |
+| **Sturdy** | Robusto/Firme | Estructuras | Muebles o edificios resistentes. |
+| **Crooked** | Torcido | Forma | Algo que no está alineado o recto. |
+| **Broad** | Ancho | Espacio | Superficies o espaldas amplias. |
+
+#### 3. Calidad y Opinión
+| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
+| :--- | :--- | :--- | :--- |
+| **Flawless** | Impecable | Calidad | Algo que no tiene ni un solo error. |
+| **Dreadful** | Espantoso | Valoración | Para una experiencia o clima muy malo. |
+| **Superb** | Magnífico | Valoración | Un nivel superior a "bueno". |
+| **Vague** | Impreciso | Información | Algo que no está claro o es confuso. |
+| **Harsh** | Severo/Cruel | Crítica/Clima | Palabras duras o frío extremo. |
+| **Seamless** | Fluido/Sin cortes | Procesos | Algo que funciona perfectamente unido. |
+| **Straightforward**| Directo/Sencillo | Explicaciones | Algo fácil de entender. |
+
+#### 4. Tiempo, Tamaño y Cantidad
+| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
+| :--- | :--- | :--- | :--- |
+| **Massive** | Masivo/Enorme | Tamaño | Algo de dimensiones gigantescas. |
+| **Brief** | Breve | Tiempo | Reuniones o textos de corta duración. |
+| **Ancient** | Antiguo | Historia | Cosas con siglos de antigüedad. |
+| **Swift** | Veloz | Movimiento | Una acción que ocurre rápido. |
+| **Tiny** | Diminuto | Tamaño | Algo extremadamente pequeño. |
+| **Endless** | Infinito | Duración | Algo que parece no terminar nunca. |
+| **Sudden** | Repentino | Eventos | Algo que ocurre sin previo aviso. |
+
+#### 5. Sentimientos y Estados Mentales
+| Adjetivo (EN) | Traducción (ES) | Contexto | Uso Recomendado |
+| :--- | :--- | :--- | :--- |
+| **Overwhelmed** | Abrumado | Emocional | Tener demasiadas cosas que manejar. |
+| **Thrilled** | Emocionado | Positivo | Estar muy feliz por algo. |
+| **Bewildered** | Desconcertado | Confusión | Estar totalmente perdido o confundido. |
+| **Eager** | Ansioso/Deseoso | Expectativa | Tener muchas ganas de empezar algo. |
+| **Ashamed** | Avergonzado | Social | Sentirse mal por una acción propia. |
+| **Restless** | Inquieto | Energía | No poder quedarse quieto o tranquilo. |
+
+
+## preposiciones 
+
+#### preposiciones de lugar
 | Preposición | Significado | Uso principal | Ejemplo (EN) | Español |
 |------------|------------|--------------|-------------|--------|
 | in | en / dentro de  | interior de algo | The keys are in the box | Las llaves estan en la caja | 
@@ -29,7 +169,7 @@
 | near | cerca | proximidad | Near the house | Cerca de la casa |
 | far from | lejos | distancia | Far from here | Lejos de aquí |
 
-### preposiciones de relacion
+#### preposiciones de relacion
 | Preposición | Significado | Uso principal | Ejemplo (EN) | Español |
 |------------|------------|--------------|-------------|--------|
 | with  | con | compañía | I go with my friend  | Voy con mi amigo |
@@ -39,7 +179,7 @@
 | by  | por | autor/método | Book by him | Libro por él |
 | for  | para | propósito | This is for you  | Esto es para ti |
 
-### preposiciones de tiempo
+#### preposiciones de tiempo
 | Preposición | Significado | Uso principal | Ejemplo (EN) | Español |
 |------------|------------|--------------|-------------|--------|
 | in | en / dentro de | tiempos largos | I need to finish the documentation in December | Necesito terminar la documentación en diciembre | 
@@ -48,11 +188,11 @@
 | before | antes | tiempo | Before dinner | Antes de cenar |
 | after | después | tiempo | After work | Después del trabajo |
 | during | durante | periodo | During the movie | Durante la película |
-| until | hasta | límite | Wait until tomorrow | Espera hasta mañana |
 | since | desde | inicio pasado | Since 2020 | Desde 2020 |
+| until | hasta | límite | Wait until tomorrow | Espera hasta mañana |
 | for | por | duración | For two hours | Por dos horas |
 
-### preposiciones de movimiento
+#### preposiciones de movimiento
 | Preposición | Significado | Uso principal | Ejemplo (EN) | Español |
 |------------|------------|--------------|-------------|--------|
 | to | Hacia | Direccion | Go to the store | Ve a la tienda |
@@ -61,7 +201,7 @@
 | across | cruzar | superficie | Across the street | Cruzar la calle |
 | over  | sobre | movimiento/cubrir | The plane flies over | El avión vuela sobre |
 
-### relacion logica
+#### relacion logica
 | Preposición | Significado | Uso principal | Ejemplo (EN) | Español |
 |------------|------------|--------------|-------------|--------|
 | because of  | debido a | causa | Because of rain | Debido a la lluvia |
@@ -72,7 +212,7 @@
 
 ---
 
-## verbos
+# verbos
 | Verbo | Significado | Uso | Ejemplo (EN) | Español |
 |------|------------|-----|-------------|--------|
 | work 🔨 | trabajar | acción general | I work every day | Trabajo todos los días |
