@@ -149,8 +149,8 @@ Lista de Adjetivos Calificativos
 #### preposiciones de movimiento
 | Preposición | Significado | Uso principal | Ejemplo (EN) | Español |
 |------------|------------|--------------|-------------|--------|
-| to | Hacia | Direccion | Go to the store | Ve a la tienda |
-| from | Desde | Origen | I come from chile | Vengo de chile | 
+| to | a | Direccion | Go to the store | Ve a la tienda |
+| from | de | Origen | I come from chile | Vengo de chile | 
 | toward | hacia | trayecto | The child runs towards his mother | El niño corre hacia su madre | 
 | across | cruzar | superficie | Across the street | Cruzar la calle |
 | over  | sobre | movimiento/cubrir | The plane flies over | El avión vuela sobre |
